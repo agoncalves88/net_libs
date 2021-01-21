@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{37E3CF7E-AE34-4CC8-ACD7-AED7611C5797}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulare.Package.Core.HttpClientManager", "src\Modulare.Package.Core.HttpClientManager\Modulare.Package.Core.HttpClientManager.csproj", "{56A39F68-F9B2-4D64-9657-2733C24298A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Package.Core.HttpClientManager", "src\Package.Core.HttpClientManager\Package.Core.HttpClientManager.csproj", "{56A39F68-F9B2-4D64-9657-2733C24298A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulare.Package.Core.DomainEventManager", "src\Modulare.Package.Core.DomainEventManager\Modulare.Package.Core.DomainEventManager.csproj", "{128BD14D-3A43-48BF-AF30-16F85EF2983A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Package.Core.DomainEventManager", "src\Package.Core.DomainEventManager\Package.Core.DomainEventManager.csproj", "{128BD14D-3A43-48BF-AF30-16F85EF2983A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulare.Package.Core.KafkaManager", "src\Modulare.Package.Core.KafkaManager\Modulare.Package.Core.KafkaManager.csproj", "{7E5A0407-034A-4480-A488-00190789362B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Package.Core.KafkaManager", "src\Package.Core.KafkaManager\Package.Core.KafkaManager.csproj", "{7E5A0407-034A-4480-A488-00190789362B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

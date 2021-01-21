@@ -1,4 +1,4 @@
-namespace Modulare.Package.Core.KafkaManager.Handlers
+namespace Package.Core.KafkaManager.Handlers
 {
     public class ConsumerBase
     {

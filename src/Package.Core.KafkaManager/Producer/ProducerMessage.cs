@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using Confluent.Kafka;
 using Microsoft.Extensions.Configuration;
 
-namespace Modulare.Package.Core.KafkaManager.Producer
+namespace Package.Core.KafkaManager.Producer
 {
     public class ProducerMessage : IProducerMessage
     {

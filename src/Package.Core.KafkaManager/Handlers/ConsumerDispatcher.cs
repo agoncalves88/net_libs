@@ -5,7 +5,7 @@ using Confluent.Kafka;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Modulare.Package.Core.KafkaManager.Handlers
+namespace Package.Core.KafkaManager.Handlers
 {
     public class ConsumerDispatcher 
     {

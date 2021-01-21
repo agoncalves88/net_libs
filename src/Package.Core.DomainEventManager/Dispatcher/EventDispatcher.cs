@@ -3,9 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Modulare.Package.Core.DomainEventManager.DispatcherEvents;
+using Package.Core.DomainEventManager.DispatcherEvents;
 
-namespace Modulare.Package.Core.DomainEventManager.Dispatcher
+namespace Package.Core.DomainEventManager.Dispatcher
 {
     public class EventDispatcher : IEventDispatcher
     {

@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-namespace Modulare.Package.Core.HttpClientManager
+namespace Package.Core.HttpClientManager
 {
     public class HttpClient
     {

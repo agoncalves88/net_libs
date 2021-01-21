@@ -1,6 +1,6 @@
 using System.Net.Http;
 
-namespace Modulare.Package.Core.HttpClientManager
+namespace Package.Core.HttpClientManager
 {
     public static class HttpClientFactory
     {

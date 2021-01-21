@@ -2,11 +2,11 @@ using System;
 using System.Collections;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Modulare.Package.Core.KafkaManager.Handlers;
-using Modulare.Package.Core.KafkaManager.Producer;
+using Package.Core.KafkaManager.Handlers;
+using Package.Core.KafkaManager.Producer;
 using Microsoft.AspNetCore.Hosting;
 
-namespace Modulare.Package.Core.KafkaManager.Configuration
+namespace Package.Core.KafkaManager.Configuration
 {
     public static class KafkaManagerConfiguration
     {

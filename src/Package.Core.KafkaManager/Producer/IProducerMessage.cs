@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace Modulare.Package.Core.KafkaManager.Producer
+namespace Package.Core.KafkaManager.Producer
 {
     public interface IProducerMessage
     {

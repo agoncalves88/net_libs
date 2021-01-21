@@ -5,7 +5,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Confluent.Kafka;
 
-namespace Modulare.Package.Core.KafkaManager.Handlers
+namespace Package.Core.KafkaManager.Handlers
 {
     public abstract class Consumer<T> : ConsumerBase, IConsumerHandler<T> where T : IMessageHandler
     {
